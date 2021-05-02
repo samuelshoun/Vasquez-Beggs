@@ -1,0 +1,5 @@
+wb_section,md_top,md_bottom,ID,OD,Roughness
+tubing,0,5800,0,2.441,6.00E-06
+casing,5800,11092,0,2.441,6.00E-06
+restriction,11092,11103,0,2.2,6.00E-06
+casing,11103,14857,0,4.778,6.00E-06
