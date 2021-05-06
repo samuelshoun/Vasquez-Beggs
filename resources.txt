@@ -6,3 +6,7 @@ https://www.ihsenergy.ca/support/documentation_ca/Harmony/content/html_files/ref
 
 Oil PVT correlations:
 https://www.ihsenergy.ca/support/documentation_ca/WellTest/content/html_files/reference_materials/calculations_correlations/oil_correlations.htm
+
+Reynolds number calculator
+https://www.efunda.com/formulae/fluids/calc_reynolds.cfm#calc
+
