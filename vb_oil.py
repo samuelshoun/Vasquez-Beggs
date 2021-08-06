@@ -49,6 +49,16 @@ class vb_oil:
 
         self.co = .000006 # for now...need to add a co function later
 
+    def __repr__(self):
+        return 'vb_oil({}, {}, {}, {})'.format(self.Yo, self.Yg, self.Rsi, self.T)
+
+    def __str__(self):
+        return 'Vasquez-Beggs Oil\n\
+            Yo  = {}\n\
+            Yg  = {}\n\
+            Rsi = {}\n\
+            T   = {}'.format(self.Yo, self.Yg, self.Rsi, self.T)
+
 
     def get_Rs(self, P):
 
